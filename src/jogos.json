@@ -68,6 +68,8 @@
     { "nome": "Unicórnio Mágico", "url": "https://www.escolagames.com.br/jogos/unicornio-magico", "iconClass": "fi-ss-unicorn" },
     { "nome": "Navio Pirata", "url": "https://www.escolagames.com.br/diversao/navio-pirata", "iconClass": "fi-ss-ship" },
     { "nome": "Procura das Cartas", "url": "https://www.escolagames.com.br/jogos/a-procura-das-cartas", "iconClass": "fi-ss-search-alt" },
-    { "nome": "Rainbow Obby", "url": "https://poki.com.br/g/rainbow-obby", "iconClass": "fi-ss-rainbow" }
+    { "nome": "Rainbow Obby", "url": "https://poki.com.br/g/rainbow-obby", "iconClass": "fi-ss-rainbow" },
+    { "nome": "Fish Tales Deluxe", "url": "https://www.friv.com/z/games/fishtalesdeluxe/game.html?f", "iconClass": "fi-ss-fish" },
+    { "nome": "Growing Fish", "url": "https://www.jogos360.com.br/growing_fish.html", "iconClass": "fi-ss-fish" }
   ]
 }
